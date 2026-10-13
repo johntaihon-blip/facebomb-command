@@ -1,1 +1,1 @@
-SHOW_3
+NONE
